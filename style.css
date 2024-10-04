@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+    width: 100%;
+    color: aqua;
+    background-color: blueviolet;
+    
+}
+h1 {
+    color: magenta;
+}
+#welcome {
+    background-color: blanchedalmond;
+}
+li.heading {
+    background-color: maroon;
+}
+
